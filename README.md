@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning, Computer Vision**
 
-- 👨‍💻 All of my projects are available at [My Repo](My Repo)
+- 👨‍💻 All of my projects are available at My Repositories
 
 - 📫 How to reach me **fikri36987@gmail.com**
 
