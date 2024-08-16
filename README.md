@@ -2,12 +2,12 @@
 
 *Undergraduate Student Telkom University*
 
-<p align="left" style="margin-right: 10px;>
-  <a href="https://www.instagram.com/fikrisyoru/">
+<p align="left" style="margin-right: 20px";>
+  <a href="https://www.instagram.com/fikrisyoru/" target="_blank">
     <img src="https://img.shields.io/badge/fikrisyoru-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="" width="130" height="30" "/>
   </a>
 
-  <a href="https://www.linkedin.com/in/fikri-fauzi-a08588258/">
+  <a href="https://www.linkedin.com/in/fikri-fauzi-a08588258/" target="_blank">
     <img src="https://img.shields.io/badge/FIKRI%20FAUZI-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="" width="130" height="30"/>
   </a>
 </p>
