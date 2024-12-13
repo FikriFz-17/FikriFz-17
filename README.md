@@ -1,4 +1,4 @@
-<h1 align="Left">Hi 👋, It's Yoru </h1>
+<h1 align="Left">Hi 👋, It's Me </h1>
 
 *Undergraduate Student Telkom University*
 
