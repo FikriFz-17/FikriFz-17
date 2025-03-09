@@ -14,11 +14,11 @@
 </p>
 
 
-- 🌱 I’m currently learning **Web Development, Machine Learning, Computer Vision**
+- 🌱 I’m currently learning **Web Development, Machine Learning, Recommendation System, NLP**
 
 - 👯 I’m looking to collaborate on **Real Project**
 
-- 🤝 I’m looking for help with **Machine Learning, Computer Vision**
+- 🤝 I’m looking for help with **Machine Learning, Recommendation System, NLP**
 
 - 👨‍💻 All of my projects are available at My Repositories
 
